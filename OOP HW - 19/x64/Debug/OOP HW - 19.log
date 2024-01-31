@@ -1,0 +1,13 @@
+﻿  Namespace19.cpp
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW - 19\OOP HW - 19\Namespace19.cpp(468,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW - 19\OOP HW - 19\Namespace19.cpp(565,32): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW - 19\OOP HW - 19\Namespace19.cpp(567,32): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW - 19\OOP HW - 19\Namespace19.cpp(604,32): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW - 19\OOP HW - 19\Namespace19.cpp(615,47): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW - 19\OOP HW - 19\Namespace19.cpp(673,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW - 19\OOP HW - 19\Namespace19.cpp(707,32): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW - 19\OOP HW - 19\Namespace19.cpp(709,60): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW - 19\OOP HW - 19\Namespace19.cpp(722,32): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW - 19\OOP HW - 19\Namespace19.cpp(724,60): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW - 19\OOP HW - 19\Namespace19.cpp(777,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OOP HW - 19.vcxproj -> D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\OOP HW - 19\x64\Debug\OOP HW - 19.exe
